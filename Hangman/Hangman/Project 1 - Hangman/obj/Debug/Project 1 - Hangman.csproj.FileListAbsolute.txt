@@ -1,0 +1,7 @@
+C:\Users\greg.booth\source\Training\Hangman\Project 1 - Hangman\bin\Debug\Project 1 - Hangman.exe.config
+C:\Users\greg.booth\source\Training\Hangman\Project 1 - Hangman\bin\Debug\Project 1 - Hangman.exe
+C:\Users\greg.booth\source\Training\Hangman\Project 1 - Hangman\bin\Debug\Project 1 - Hangman.pdb
+C:\Users\greg.booth\source\Training\Hangman\Project 1 - Hangman\obj\Debug\Project 1 - Hangman.csproj.CoreCompileInputs.cache
+C:\Users\greg.booth\source\Training\Hangman\Project 1 - Hangman\obj\Debug\Project 1 - Hangman.exe
+C:\Users\greg.booth\source\Training\Hangman\Project 1 - Hangman\obj\Debug\Project 1 - Hangman.pdb
+C:\Users\greg.booth\source\Training\Hangman\Project 1 - Hangman\obj\Debug\Project 1 - Hangman.csprojAssemblyReference.cache
