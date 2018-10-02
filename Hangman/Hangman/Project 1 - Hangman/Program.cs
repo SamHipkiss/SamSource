@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Net;
 using System.Text;
 using System.Threading;
 
@@ -6,8 +7,6 @@ namespace Project_1___Hangman
 {
     class Program
     {
-        private static object randomSeed;
-
         static void Main(string[] args)
         {
             string[] messages =
@@ -32,9 +31,15 @@ _  / __ __  /| |_  /|_/ /__  __/      _  / / /_ | / /__  __/  __  /_/ /
             };
             int[] counting = { 1, 2, 3, 4, 5 };
 
+            Random rand = new Random();
+
+            var fileContents = WordResource.Dictionary;
+            var fileContentsMinusLF = fileContents.Replace('\r', ' ').TrimEnd();
+            var fileContentsSplitByCR = fileContentsMinusLF.Split('\n');
+            
             bool gameOver = false;
 
-            string startWord = "smellykelly";
+            string startWord = fileContentsSplitByCR[rand.Next(fileContentsSplitByCR.Length)];
             char[] maskStartWord = new string('-', startWord.Length).ToCharArray();
             string currentGuessedCharacter = "";
             string guessedCharactersList = "";
@@ -100,6 +105,8 @@ _  / __ __  /| |_  /|_/ /__  __/      _  / / /_ | / /__  __/  __  /_/ /
                 {
                     gameOver = true;
                     Console.WriteLine(messages[2]);
+                    Console.WriteLine($"The word was {startWord}");
+                    Thread.Sleep(60 * 1000);
                 }
                 else if (!(new string(maskStartWord).Contains("-")))
                 {

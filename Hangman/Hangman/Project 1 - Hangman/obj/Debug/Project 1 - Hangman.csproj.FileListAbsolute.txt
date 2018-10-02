@@ -5,3 +5,12 @@ C:\Users\greg.booth\source\Training\Hangman\Project 1 - Hangman\obj\Debug\Projec
 C:\Users\greg.booth\source\Training\Hangman\Project 1 - Hangman\obj\Debug\Project 1 - Hangman.exe
 C:\Users\greg.booth\source\Training\Hangman\Project 1 - Hangman\obj\Debug\Project 1 - Hangman.pdb
 C:\Users\greg.booth\source\Training\Hangman\Project 1 - Hangman\obj\Debug\Project 1 - Hangman.csprojAssemblyReference.cache
+C:\Workspace\Personal\Hangman\Hangman\Project 1 - Hangman\bin\Debug\Project 1 - Hangman.exe.config
+C:\Workspace\Personal\Hangman\Hangman\Project 1 - Hangman\bin\Debug\Project 1 - Hangman.exe
+C:\Workspace\Personal\Hangman\Hangman\Project 1 - Hangman\bin\Debug\Project 1 - Hangman.pdb
+C:\Workspace\Personal\Hangman\Hangman\Project 1 - Hangman\obj\Debug\Project 1 - Hangman.csprojAssemblyReference.cache
+C:\Workspace\Personal\Hangman\Hangman\Project 1 - Hangman\obj\Debug\Project 1 - Hangman.csproj.CoreCompileInputs.cache
+C:\Workspace\Personal\Hangman\Hangman\Project 1 - Hangman\obj\Debug\Project 1 - Hangman.exe
+C:\Workspace\Personal\Hangman\Hangman\Project 1 - Hangman\obj\Debug\Project 1 - Hangman.pdb
+C:\Workspace\Personal\Hangman\Hangman\Project 1 - Hangman\obj\Debug\Project_1___Hangman.WordResource.resources
+C:\Workspace\Personal\Hangman\Hangman\Project 1 - Hangman\obj\Debug\Project 1 - Hangman.csproj.GenerateResource.cache
